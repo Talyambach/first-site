@@ -1,0 +1,167 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  margin: auto;
+  width: 1512px;
+}
+
+.logo {
+  position: absolute;
+  width: 113px;
+  height: 29px;
+  left: 43px;
+  top: 45px;
+
+  font-family: Satisfy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 29px;
+}
+.home {
+  position: absolute;
+  width: 54px;
+  height: 26px;
+  left: 432px;
+  top: 45px;
+
+  font-family: Sarabun;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+.line {
+  position: absolute;
+  width: 55px;
+  height: 0px;
+  left: 431px;
+  top: 74px;
+  border: 1px solid #000000;
+}
+.about {
+  position: absolute;
+  width: 90px;
+  height: 26px;
+  left: 636px;
+  top: 45px;
+
+  font-family: Sarabun;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+.price {
+  position: absolute;
+  width: 73px;
+  height: 26px;
+  left: 876px;
+  top: 45px;
+
+  font-family: Sarabun;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+.rectangle1 {
+  position: absolute;
+  width: 128px;
+  height: 43px;
+  left: 1234px;
+  top: 55px;
+
+  background: #000000;
+  border-radius: 20px;
+}
+.contact {
+  position: absolute;
+  width: 90px;
+  height: 21px;
+  left: 1253px;
+  top: 48px;
+
+  font-family: Sarabun;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  color: #ffffff;
+}
+.bottleimage {
+  position: absolute;
+  width: 766px;
+  height: 772px;
+  left: 690px;
+  top: 147px;
+
+  background: url(quokkabottles-DkUNVCoPYyQ-unsplash.jpg);
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+    drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 20px;
+}
+.lefttext {
+  position: absolute;
+  width: 378px;
+  height: 442px;
+  left: 134px;
+  top: 204px;
+
+  font-family: Sarabun;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 104px;
+
+  color: #000000;
+}
+.lefttext p span {
+  color: rgba(222, 213, 198, 1);
+}
+
+.content {
+  position: absolute;
+  width: 467px;
+  height: 78px;
+  left: 134px;
+  top: 716px;
+
+  font-family: Sarabun;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+
+  color: #000000;
+}
+.rectangle2 {
+  position: absolute;
+  width: 164px;
+  height: 58px;
+  left: 203px;
+  top: 850px;
+
+  background: #000000;
+  border-radius: 20px;
+}
+.buy {
+  position: absolute;
+  width: 85px;
+  height: 26px;
+  left: 243px;
+  top: 845px;
+
+  font-family: Sarabun;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
